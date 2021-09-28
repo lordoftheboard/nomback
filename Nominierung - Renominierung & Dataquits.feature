@@ -4,7 +4,7 @@
 #Data Quits werden erzeugt
 #Daten sind richtig im System abgespeichert
 
-Feature: Nominierung and Data-Quit
+Feature: Nominierung and Data-Quit xxx
 
 Background: 
 Given the following topology exists
