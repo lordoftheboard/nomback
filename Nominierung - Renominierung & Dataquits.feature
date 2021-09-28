@@ -3,7 +3,7 @@
 Feature: Nominierung and Data-Quit
 
 Background: 
-Given the following topology exist
+Given the following topology exists
 |Punkt |Richtung | Capacity      |
 |BG	  |Exit     | 100 		    |
 |BG	  |Entry    | 50 		    |
