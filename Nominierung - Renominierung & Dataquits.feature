@@ -1,4 +1,4 @@
-#Nominierung and Data-Quit
+#Nominierung and Data-Quit xxxx
 #BGVs können Nominierungen für BGs abgeben
 #Versionen werden gecheckt
 #Data Quits werden erzeugt
