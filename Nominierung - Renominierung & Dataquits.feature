@@ -1,4 +1,8 @@
 #Nominierung and Data-Quit
+BGVs können Nominierungen für BGs abgeben
+Versionen werden gecheckt
+Data Quits werden erzeugt
+Daten sind richtig im System abgespeichert
 
 Feature: Nominierung and Data-Quit
 
