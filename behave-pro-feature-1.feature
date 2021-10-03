@@ -4,6 +4,7 @@ Feature: behave pro feature 1
     Given the following nominations already exist
     And the following topology already exist
 
+  @nomination-and-dataquit
   Scenario: simple nomination
     When the following nomination is transmitted
       | nominator | value |
