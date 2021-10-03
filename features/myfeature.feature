@@ -6,3 +6,8 @@ Feature:myfeature
     Given this data exist
     When the user does this
     Then the system responds with that
+    
+    Scenario: 2nd scenario
+      Given this data exist
+      When the system responds with that
+      Then abc
