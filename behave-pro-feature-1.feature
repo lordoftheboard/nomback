@@ -10,7 +10,7 @@ Feature: behave pro feature 1
       | bg1       | 50    |
       | bg1       | 10    |
     Then the dataquit status should be as follows
-     |nominator|     status|
-    | bg1     | OK        |
-     | bg2     | OK        |
+      |nominator| status|
+      | bg1     | OK    |
+      | bg2     | OK    |
     
